@@ -7,7 +7,7 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace HeroesWebApi.Controllers
 {
-    [Route("api/[controller]")]
+    [Route("api/heroes")]
     [ApiController]
     public class HeroesController : ControllerBase
     {

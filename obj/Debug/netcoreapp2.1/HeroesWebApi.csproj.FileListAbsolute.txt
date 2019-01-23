@@ -1,0 +1,14 @@
+C:\Users\cleo\Projects\HeroesWebApi\HeroesWebApi\bin\Debug\netcoreapp2.1\HeroesWebApi.deps.json
+C:\Users\cleo\Projects\HeroesWebApi\HeroesWebApi\bin\Debug\netcoreapp2.1\HeroesWebApi.runtimeconfig.json
+C:\Users\cleo\Projects\HeroesWebApi\HeroesWebApi\bin\Debug\netcoreapp2.1\HeroesWebApi.runtimeconfig.dev.json
+C:\Users\cleo\Projects\HeroesWebApi\HeroesWebApi\bin\Debug\netcoreapp2.1\HeroesWebApi.dll
+C:\Users\cleo\Projects\HeroesWebApi\HeroesWebApi\obj\Debug\netcoreapp2.1\HeroesWebApi.csproj.CoreCompileInputs.cache
+C:\Users\cleo\Projects\HeroesWebApi\HeroesWebApi\obj\Debug\netcoreapp2.1\HeroesWebApi.RazorAssemblyInfo.cache
+C:\Users\cleo\Projects\HeroesWebApi\HeroesWebApi\obj\Debug\netcoreapp2.1\HeroesWebApi.RazorAssemblyInfo.cs
+C:\Users\cleo\Projects\HeroesWebApi\HeroesWebApi\obj\Debug\netcoreapp2.1\HeroesWebApi.AssemblyInfoInputs.cache
+C:\Users\cleo\Projects\HeroesWebApi\HeroesWebApi\obj\Debug\netcoreapp2.1\HeroesWebApi.AssemblyInfo.cs
+C:\Users\cleo\Projects\HeroesWebApi\HeroesWebApi\obj\Debug\netcoreapp2.1\HeroesWebApi.RazorTargetAssemblyInfo.cache
+C:\Users\cleo\Projects\HeroesWebApi\HeroesWebApi\bin\Debug\netcoreapp2.1\HeroesWebApi.pdb
+C:\Users\cleo\Projects\HeroesWebApi\HeroesWebApi\obj\Debug\netcoreapp2.1\HeroesWebApi.dll
+C:\Users\cleo\Projects\HeroesWebApi\HeroesWebApi\obj\Debug\netcoreapp2.1\HeroesWebApi.pdb
+C:\Users\cleo\Projects\HeroesWebApi\HeroesWebApi\obj\Debug\netcoreapp2.1\HeroesWebApi.csprojAssemblyReference.cache
